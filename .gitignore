@@ -3,6 +3,9 @@ data/
 log/
 models/
 
+# 3dparty
+src/urslib2
+
 # Editors
 .vscode/
 .idea/
